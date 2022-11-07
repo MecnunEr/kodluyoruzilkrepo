@@ -3,14 +3,14 @@
 
 ![](https://i.hizliresim.com/83nd437.png)
 
-##Installation
+## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
 git clone https://github.com/MecnunEr/kodluyoruzilkrepo.git
 ```
 
-###Usage
+## Usage
 
 ```
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
@@ -22,7 +22,7 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-##Contributing
+## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 License
