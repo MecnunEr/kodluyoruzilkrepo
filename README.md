@@ -1,6 +1,7 @@
 # Kodluyoruz İlk Repo
-**Bu repo *[Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/)* Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet img klasörü, bir adet index.html ve bir adet README.md barındırıyor.**
+Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet img klasörü, bir adet index.html ve bir adet README.md barındırıyor.
 
+[Patika.dev](www.patika.dev)
 ![](https://i.hizliresim.com/83nd437.png)
 
 ## Installation
